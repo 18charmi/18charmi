@@ -1,4 +1,4 @@
-Hi 👋 My name is Charmi Vyas
+Hello there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Charmi
 ============================
 
 Frontend Developer
@@ -6,7 +6,7 @@ Frontend Developer
 
 A passionate React developer with a journey spanning 3 years in the world of web development. 🚀
 
-* 🌍  I'm based in Ahmedabad
+* 🌍  I'm based in Ahmedabad City.
 * 🖥️  See my portfolio at [here](http://charmi-portfolio.netlify.app/)
 * ✉️  You can contact me at [12charmi@gmail.com](mailto:12charmi@gmail.com)
 * 🧠  I'm learning Full Stack Development with MERN
